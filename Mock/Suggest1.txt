@@ -1,0 +1,11 @@
+- ReadFat: struct fat12,16,32
++ CheckFatType(): hàm kiểm tra fat
+- HAL
++ Dẫn để đi vào từng Folder and File
+switch case
+- APP(main)
+- Display
+
+main"floppy.img": dien file tu cmd
+
+quản lý bằng linked list

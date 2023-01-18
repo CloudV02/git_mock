@@ -1,0 +1,10 @@
+- Tìm hiểu về File FAT, FAT12/16/32? 
+- Viết chương trình parse file FAT.
+	- Yêu cầu chia ứng dụng thành các tầng phù hợp
+	- Chia tầng/file/function một các generic
+	- Chia nhóm và quản lý project bằng Git-Github
+     Duyệt tệp, thư mục với giao diện dòng lệnh.
+	a) Hiển thị tất cả các folder và file trong thư mục gốc.
+	b) Hiển thị các thư mục con và file ở trong 1 thư mục.
+	c) Hiển thị nội dung của 1 file được lựa chọn lên màn hình với dữ liệu thô.  
+- Chia nhóm, mỗi nhóm 4-5 members.
